@@ -11,7 +11,10 @@
    float: none;
  }
 
-
+  img{
+    height: auto;
+    width: 35%;
+  }
  /* Sezione Come Funziona */
  #steps .row>.left,
  #steps .row>.central,
